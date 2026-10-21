@@ -1,0 +1,50 @@
+ds1a|adt|ds|ADT|ds/adt.cpp|main.cpp
+ds1b|crud|ds|CRUD|ds/crud.cpp|main.cpp
+ds2a|stack|ds|Stack|ds/stack.cpp|main.cpp
+ds2b|undo|ds|Undo|ds/undo.cpp|main.cpp
+ds2c|infix|ds|Infix2Postfix|ds/infix.cpp|main.cpp
+ds3a|queue|ds|Circular Queue|ds/queue.cpp|main.cpp
+ds4a|sll|ds|Singly Linked List|ds/sll.cpp|main.cpp
+ds4b|playlist|ds|Playlist|ds/playlist.cpp|main.cpp
+ds5a|dll|ds|Doubly Linked List|ds/dll.cpp|main.cpp
+ds5b|dllops|ds|DLL insert/delete|ds/dllops.cpp|main.cpp
+ds5c|undoredo|ds|Undo/Redo|ds/undoredo.cpp|main.cpp
+ds7a|bst|ds|BST|ds/bst.cpp|main.cpp
+ds7b|inorder|ds|Inorder|ds/inorder.cpp|main.cpp
+ds7c|preorder|ds|Preorder|ds/preorder.cpp|main.cpp
+ds7d|postorder|ds|Postorder|ds/postorder.cpp|main.cpp
+ds8a|maxheap|ds|Max Heap|ds/maxheap.cpp|main.cpp
+ds8b|minheap|ds|Min Heap|ds/minheap.cpp|main.cpp
+ds8c|minheapinsert|ds|Min Heap insert|ds/minheapinsert.cpp|main.cpp
+ds8d|maxheapinsert|ds|Max Heap insert|ds/maxheapinsert.cpp|main.cpp
+ds9a|graphmatrix|ds|Adjacency Matrix|ds/graphmatrix.cpp|main.cpp
+ds9b|graphlist|ds|Adjacency List|ds/graphlist.cpp|main.cpp
+ds9c|bfsdfs|ds|BFS/DFS|ds/bfsdfs.cpp|main.cpp
+ds10a|hashlinear|ds|Hash (linear probing)|ds/hashlinear.cpp|main.cpp
+ds10b|hashchain|ds|Hash (chaining)|ds/hashchain.cpp|main.cpp
+ds10c|hashlinear2|ds|Hash (linear + delete)|ds/hashlinear2.cpp|main.cpp
+os1a|sharedmemory|os|Shared Memory|os/sharedmemory.java|SharedMemoryIPC.java
+os1b|producerconsumer|os|Producer-Consumer (Semaphore)|os/producerconsumer.java|ProducerConsumer.java
+os1c|racecondition|os|Race Condition|os/racecondition.java|RaceCondition.java
+os2a|pcqueue|os|Producer-Consumer (Queue)|os/pcqueue.java|ProducerConsumerQueue.java
+os2b|comparecomm|os|Shared vs Message|os/comparecomm.java|CompareCommunication.java
+os3a|ticket|os|Thread Lifecycle|os/ticket.java|TicketSystem.java
+os3b|threadjoin|os|Thread Joining|os/threadjoin.java|ThreadJoining.java
+os3c|instanttimer|os|Execution Timer|os/instanttimer.java|InstantTimer.java
+os4a|fibonacci|os|Fibonacci|os/fibonacci.java|Fibonacci.java
+os4b|sync|os|Synchronization|os/sync.java|Synchronization.java
+os4c|pooling|os|Thread Pool|os/pooling.java|PoolingMethod.java
+os5a|boundedbuffer|os|Bounded Buffer|os/boundedbuffer.java|BoundedBuffer.java
+os5b|syncaccess|os|Synchronized Account|os/syncaccess.java|SynchronizedAccess1.java
+os5c|circularqueue|os|Circular Queue|os/circularqueue.java|CircularQueue.java
+os6a|readerswriters|os|Readers-Writers|os/readerswriters.java|ReadersWritersProblem.java
+os6b|deadlock|os|Deadlock|os/deadlock.java|Deadlock.java
+os7a|fcfs|os|FCFS|os/fcfs.java|FCFSScheduling.java
+os7b|fcfs2|os|FCFS (GFG)|os/fcfs2.java|FcfsGfg.java
+os7c|priority|os|Priority Scheduling|os/priority.java|Priority.java
+os8a|processsched|os|Process Scheduling|os/processsched.java|ProcessScheduling.java
+os8b|yield|os|Yield|os/yield.java|YieldExample.java
+os9a|pattern|os|Pattern|os/pattern.java|PatternDemo.java
+os9b|jframe|os|JFrame|os/jframe.java|JFrameDemo.java
+os10a|hashtable|os|Hash Table|os/hashtable.java|HashTableExample.java
+os10b|hashmap|os|Hash Map|os/hashmap.java|HashMapExample.java
